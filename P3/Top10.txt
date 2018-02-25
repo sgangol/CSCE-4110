@@ -1,0 +1,174 @@
+Enter filename: 494_bus
+Enter # of Nodes: 494
+
+===================
+INPUT GRAPH STATS
+>Weighted: false
+>#ofNodes: 494
+>#ofEdges: 1080
+===================
+
+
+
+ > Ten Highest Closeness Centrality
+ Node 301        Closeness Centrality: 0.149575
+ Node 429        Closeness Centrality: 0.148137
+ Node 310        Closeness Centrality: 0.142609
+ Node 431        Closeness Centrality: 0.141301
+ Node 217        Closeness Centrality: 0.140656
+ Node 236        Closeness Centrality: 0.138289
+ Node 306        Closeness Centrality: 0.137556
+ Node 323        Closeness Centrality: 0.135551
+ Node 271        Closeness Centrality: 0.135291
+ Node 103        Closeness Centrality: 0.134589
+
+
+Enter filename: impcol_a
+Enter # of Nodes: 207
+
+===================
+INPUT GRAPH STATS
+>Weighted: false
+>#ofNodes: 207
+>#ofEdges: 572
+===================
+
+
+
+ > Ten Highest Closeness Centrality
+ Node 201        Closeness Centrality: 0.293866
+ Node 200        Closeness Centrality: 0.29055
+ Node 64         Closeness Centrality: 0.287709
+ Node 66         Closeness Centrality: 0.287308
+ Node 65         Closeness Centrality: 0.283356
+ Node 77         Closeness Centrality: 0.282967
+ Node 95         Closeness Centrality: 0.282192
+ Node 134        Closeness Centrality: 0.279133
+ Node 45         Closeness Centrality: 0.278755
+ Node 71         Closeness Centrality: 0.278003
+
+
+Enter filename: oscil_dcop_55
+Enter # of Nodes: 430
+
+===================
+INPUT GRAPH STATS
+>Weighted: false
+>#ofNodes: 430
+>#ofEdges: 1544
+===================
+
+
+
+ > Ten Highest Closeness Centrality
+ Node 238        Closeness Centrality: 0.0590665
+ Node 147        Closeness Centrality: 0.0590502
+ Node 148        Closeness Centrality: 0.0590502
+ Node 147        Closeness Centrality: 0.0590502
+ Node 148        Closeness Centrality: 0.0590502
+ Node 109        Closeness Centrality: 0.0590177
+ Node 110        Closeness Centrality: 0.0590177
+ Node 109        Closeness Centrality: 0.0590177
+ Node 110        Closeness Centrality: 0.0590177
+ Node 67         Closeness Centrality: 0.0589691
+ Node 68         Closeness Centrality: 0.0589691
+ Node 67         Closeness Centrality: 0.0589691
+ Node 68         Closeness Centrality: 0.0589691
+ Node 89         Closeness Centrality: 0.0589043
+ Node 92         Closeness Centrality: 0.0589043
+ Node 89         Closeness Centrality: 0.0589043
+ Node 92         Closeness Centrality: 0.0589043
+ Node 130        Closeness Centrality: 0.0588235
+ Node 134        Closeness Centrality: 0.0588235
+
+
+
+Enter filename: oscil_dcop_56
+Enter # of Nodes: 430
+
+===================
+INPUT GRAPH STATS
+>Weighted: false
+>#ofNodes: 430
+>#ofEdges: 1544
+===================
+
+
+
+ > Ten Highest Closeness Centrality
+ Node 238        Closeness Centrality: 0.0590665
+ Node 147        Closeness Centrality: 0.0590502
+ Node 148        Closeness Centrality: 0.0590502
+ Node 147        Closeness Centrality: 0.0590502
+ Node 148        Closeness Centrality: 0.0590502
+ Node 109        Closeness Centrality: 0.0590177
+ Node 110        Closeness Centrality: 0.0590177
+ Node 109        Closeness Centrality: 0.0590177
+ Node 110        Closeness Centrality: 0.0590177
+ Node 67         Closeness Centrality: 0.0589691
+ Node 68         Closeness Centrality: 0.0589691
+ Node 67         Closeness Centrality: 0.0589691
+ Node 68         Closeness Centrality: 0.0589691
+ Node 89         Closeness Centrality: 0.0589043
+ Node 92         Closeness Centrality: 0.0589043
+ Node 89         Closeness Centrality: 0.0589043
+ Node 92         Closeness Centrality: 0.0589043
+ Node 130        Closeness Centrality: 0.0588235
+ Node 134        Closeness Centrality: 0.0588235
+
+
+
+Enter filename: rw496
+Enter # of Nodes: 496
+
+===================
+INPUT GRAPH STATS
+>Weighted: false
+>#ofNodes: 496
+>#ofEdges: 1859
+===================
+
+
+
+ > Ten Highest Closeness Centrality
+ Node 305        Closeness Centrality: 0.114134
+ Node 324        Closeness Centrality: 0.114108
+ Node 307        Closeness Centrality: 0.113872
+ Node 308        Closeness Centrality: 0.113845
+ Node 326        Closeness Centrality: 0.113819
+ Node 304        Closeness Centrality: 0.113741
+ Node 289        Closeness Centrality: 0.11335
+ Node 309        Closeness Centrality: 0.113324
+ Node 288        Closeness Centrality: 0.113298
+ Node 327        Closeness Centrality: 0.113195
+
+
+Enter filename: tumorAntiAngiogenesis_8
+Enter # of Nodes: 490
+
+===================
+INPUT GRAPH STATS
+>Weighted: false
+>#ofNodes: 490
+>#ofEdges: 2535
+===================
+
+
+
+ > Ten Highest Closeness Centrality
+ Node 292        Closeness Centrality: 0.991886
+ Node 489        Closeness Centrality: 0.554422
+ Node 144        Closeness Centrality: 0.508845
+ Node 47         Closeness Centrality: 0.508316
+ Node 105        Closeness Centrality: 0.507261
+ Node 8          Closeness Centrality: 0.506736
+ Node 154        Closeness Centrality: 0.506736
+ Node 8          Closeness Centrality: 0.506736
+ Node 154        Closeness Centrality: 0.506736
+ Node 57         Closeness Centrality: 0.506211
+ Node 137        Closeness Centrality: 0.506211
+ Node 57         Closeness Centrality: 0.506211
+ Node 137        Closeness Centrality: 0.506211
+ Node 40         Closeness Centrality: 0.505688
+ Node 111        Closeness Centrality: 0.505688
+

@@ -1,0 +1,15 @@
+https://www.cise.ufl.edu/research/sparse/matrices/.
+
+Graph			# of Nodes	Weight
+-----------------------------------------------
+494_bus			494		Y
+dwt_492			492		N		
+Erdos991		492		N
+impcol_a		207		Y
+bcspwr04		274		N	*
+oscil_dcop_55		430		Y
+oscil_dcop_56		430		Y
+rw496			496		Y
+tumorAntiAngiogenesis_8	490		Y
+
+
